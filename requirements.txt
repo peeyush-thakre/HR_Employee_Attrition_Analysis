@@ -1,0 +1,10 @@
+# Python dependencies for EDA.ipynb
+# Install with: python -m pip install -r requirements.txt
+
+numpy
+pandas
+matplotlib
+seaborn
+jupyter
+notebook
+ipykernel
