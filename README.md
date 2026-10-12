@@ -132,7 +132,7 @@ The SQL file starts with `CREATE DATABASE IF NOT EXISTS HR_Emp_Attrition;` and `
 HR-Employee-Attrition/
 ├── EDA.ipynb
 ├── HR_Employee_Attrition.csv
-├── HR-Employee-Attrition(1).sql
+├── HR-Employee-Attrition.sql
 ├── HR_emp_attrition.pbix
 ├── README.md
 └── requirements.txt
@@ -149,8 +149,3 @@ HR-Employee-Attrition/
 ## Conclusion
 
 This project demonstrates an end-to-end HR analytics workflow using Python for EDA, SQL for structured HR queries, and Power BI for interactive reporting. It highlights attrition patterns and provides a basis for further investigation into employee retention.
-
-## Author
-
-**Peeyush Thakre**  
-GitHub: [peeyush-thakre](https://github.com/peeyush-thakre)
